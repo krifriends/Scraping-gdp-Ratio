@@ -1,0 +1,738 @@
+[
+    {
+        "countries": "Japan",
+        "debt-ratio": "237.54%"
+    },
+    {
+        "countries": "Venezuela",
+        "debt-ratio": "214.45%"
+    },
+    {
+        "countries": "Sudan",
+        "debt-ratio": "177.87%"
+    },
+    {
+        "countries": "Greece",
+        "debt-ratio": "174.15%"
+    },
+    {
+        "countries": "Lebanon",
+        "debt-ratio": "157.81%"
+    },
+    {
+        "countries": "Italy",
+        "debt-ratio": "133.43%"
+    },
+    {
+        "countries": "Eritrea",
+        "debt-ratio": "127.34%"
+    },
+    {
+        "countries": "Cape Verde",
+        "debt-ratio": "125.29%"
+    },
+    {
+        "countries": "Mozambique",
+        "debt-ratio": "124.46%"
+    },
+    {
+        "countries": "Portugal",
+        "debt-ratio": "119.46%"
+    },
+    {
+        "countries": "Barbados",
+        "debt-ratio": "117.27%"
+    },
+    {
+        "countries": "Singapore",
+        "debt-ratio": "109.37%"
+    },
+    {
+        "countries": "United States",
+        "debt-ratio": "106.70%"
+    },
+    {
+        "countries": "Bhutan",
+        "debt-ratio": "103.85%"
+    },
+    {
+        "countries": "Cyprus",
+        "debt-ratio": "101.04%"
+    },
+    {
+        "countries": "Bahrain",
+        "debt-ratio": "100.19%"
+    },
+    {
+        "countries": "Belgium",
+        "debt-ratio": "99.57%"
+    },
+    {
+        "countries": "France",
+        "debt-ratio": "99.20%"
+    },
+    {
+        "countries": "Spain",
+        "debt-ratio": "95.96%"
+    },
+    {
+        "countries": "Jordan",
+        "debt-ratio": "94.83%"
+    },
+    {
+        "countries": "Jamaica",
+        "debt-ratio": "94.13%"
+    },
+    {
+        "countries": "Belize",
+        "debt-ratio": "92.64%"
+    },
+    {
+        "countries": "Angola",
+        "debt-ratio": "90.46%"
+    },
+    {
+        "countries": "Brazil",
+        "debt-ratio": "90.36%"
+    },
+    {
+        "countries": "Republic of the Congo",
+        "debt-ratio": "90.19%"
+    },
+    {
+        "countries": "Antigua and Barbuda",
+        "debt-ratio": "88.35%"
+    },
+    {
+        "countries": "Canada",
+        "debt-ratio": "88.01%"
+    },
+    {
+        "countries": "Egypt",
+        "debt-ratio": "86.93%"
+    },
+    {
+        "countries": "United Kingdom",
+        "debt-ratio": "85.67%"
+    },
+    {
+        "countries": "Aruba",
+        "debt-ratio": "83.57%"
+    },
+    {
+        "countries": "Sri Lanka",
+        "debt-ratio": "82.99%"
+    },
+    {
+        "countries": "Tunisia",
+        "debt-ratio": "81.55%"
+    },
+    {
+        "countries": "Mauritania",
+        "debt-ratio": "80.61%"
+    },
+    {
+        "countries": "Zambia",
+        "debt-ratio": "80.50%"
+    },
+    {
+        "countries": "Dominica",
+        "debt-ratio": "79.84%"
+    },
+    {
+        "countries": "Gambia",
+        "debt-ratio": "78.67%"
+    },
+    {
+        "countries": "San Marino",
+        "debt-ratio": "77.12%"
+    },
+    {
+        "countries": "Pakistan",
+        "debt-ratio": "77.00%"
+    },
+    {
+        "countries": "Argentina",
+        "debt-ratio": "75.90%"
+    },
+    {
+        "countries": "Sao Tome and Principe",
+        "debt-ratio": "74.10%"
+    },
+    {
+        "countries": "Sierra Leone",
+        "debt-ratio": "72.37%"
+    },
+    {
+        "countries": "Suriname",
+        "debt-ratio": "72.05%"
+    },
+    {
+        "countries": "Saint Lucia",
+        "debt-ratio": "71.62%"
+    },
+    {
+        "countries": "Saint Vincent and the Grenadines",
+        "debt-ratio": "71.38%"
+    },
+    {
+        "countries": "Uruguay",
+        "debt-ratio": "71.34%"
+    },
+    {
+        "countries": "Austria",
+        "debt-ratio": "71.17%"
+    },
+    {
+        "countries": "Croatia",
+        "debt-ratio": "70.73%"
+    },
+    {
+        "countries": "Montenegro",
+        "debt-ratio": "70.58%"
+    },
+    {
+        "countries": "Togo",
+        "debt-ratio": "70.39%"
+    },
+    {
+        "countries": "India",
+        "debt-ratio": "69.04%"
+    },
+    {
+        "countries": "El Salvador",
+        "debt-ratio": "68.10%"
+    },
+    {
+        "countries": "Mauritius",
+        "debt-ratio": "67.50%"
+    },
+    {
+        "countries": "Hungary",
+        "debt-ratio": "66.62%"
+    },
+    {
+        "countries": "Slovenia",
+        "debt-ratio": "65.44%"
+    },
+    {
+        "countries": "Albania",
+        "debt-ratio": "65.13%"
+    },
+    {
+        "countries": "Morocco",
+        "debt-ratio": "65.11%"
+    },
+    {
+        "countries": "Laos",
+        "debt-ratio": "64.13%"
+    },
+    {
+        "countries": "Burundi",
+        "debt-ratio": "63.54%"
+    },
+    {
+        "countries": "Djibouti",
+        "debt-ratio": "62.99%"
+    },
+    {
+        "countries": "Ireland",
+        "debt-ratio": "62.42%"
+    },
+    {
+        "countries": "Ukraine",
+        "debt-ratio": "62.03%"
+    },
+    {
+        "countries": "Senegal",
+        "debt-ratio": "62.00%"
+    },
+    {
+        "countries": "Ghana",
+        "debt-ratio": "61.99%"
+    },
+    {
+        "countries": "Maldives",
+        "debt-ratio": "61.43%"
+    },
+    {
+        "countries": "Oman",
+        "debt-ratio": "61.29%"
+    },
+    {
+        "countries": "Bahamas",
+        "debt-ratio": "60.49%"
+    },
+    {
+        "countries": "Nauru",
+        "debt-ratio": "60.39%"
+    },
+    {
+        "countries": "Finland",
+        "debt-ratio": "59.88%"
+    },
+    {
+        "countries": "Saint Kitts and Nevis",
+        "debt-ratio": "59.49%"
+    },
+    {
+        "countries": "Malawi",
+        "debt-ratio": "59.01%"
+    },
+    {
+        "countries": "Israel",
+        "debt-ratio": "58.96%"
+    },
+    {
+        "countries": "Gabon",
+        "debt-ratio": "58.48%"
+    },
+    {
+        "countries": "South Africa",
+        "debt-ratio": "57.81%"
+    },
+    {
+        "countries": "Puerto Rico",
+        "debt-ratio": "57.70%"
+    },
+    {
+        "countries": "Ethiopia",
+        "debt-ratio": "57.43%"
+    },
+    {
+        "countries": "Vietnam",
+        "debt-ratio": "57.36%"
+    },
+    {
+        "countries": "Guyana",
+        "debt-ratio": "57.22%"
+    },
+    {
+        "countries": "Bolivia",
+        "debt-ratio": "57.11%"
+    },
+    {
+        "countries": "Germany",
+        "debt-ratio": "56.93%"
+    },
+    {
+        "countries": "Malaysia",
+        "debt-ratio": "56.32%"
+    },
+    {
+        "countries": "Costa Rica",
+        "debt-ratio": "56.15%"
+    },
+    {
+        "countries": "Grenada",
+        "debt-ratio": "56.12%"
+    },
+    {
+        "countries": "Kyrgyzstan",
+        "debt-ratio": "56.09%"
+    },
+    {
+        "countries": "Niger",
+        "debt-ratio": "55.60%"
+    },
+    {
+        "countries": "Kenya",
+        "debt-ratio": "55.50%"
+    },
+    {
+        "countries": "China",
+        "debt-ratio": "55.36%"
+    },
+    {
+        "countries": "Guinea-Bissau",
+        "debt-ratio": "54.92%"
+    },
+    {
+        "countries": "Yemen",
+        "debt-ratio": "54.51%"
+    },
+    {
+        "countries": "Seychelles",
+        "debt-ratio": "54.49%"
+    },
+    {
+        "countries": "Mexico",
+        "debt-ratio": "54.11%"
+    },
+    {
+        "countries": "Benin",
+        "debt-ratio": "54.00%"
+    },
+    {
+        "countries": "Qatar",
+        "debt-ratio": "52.74%"
+    },
+    {
+        "countries": "Vanuatu",
+        "debt-ratio": "52.18%"
+    },
+    {
+        "countries": "Netherlands",
+        "debt-ratio": "52.04%"
+    },
+    {
+        "countries": "Namibia",
+        "debt-ratio": "51.60%"
+    },
+    {
+        "countries": "Belarus",
+        "debt-ratio": "51.08%"
+    },
+    {
+        "countries": "Serbia",
+        "debt-ratio": "50.95%"
+    },
+    {
+        "countries": "Ivory Coast",
+        "debt-ratio": "50.92%"
+    },
+    {
+        "countries": "Iraq",
+        "debt-ratio": "50.25%"
+    },
+    {
+        "countries": "Fiji",
+        "debt-ratio": "50.22%"
+    },
+    {
+        "countries": "Rwanda",
+        "debt-ratio": "50.00%"
+    },
+    {
+        "countries": "Trinidad and Tobago",
+        "debt-ratio": "49.75%"
+    },
+    {
+        "countries": "Tajikistan",
+        "debt-ratio": "49.46%"
+    },
+    {
+        "countries": "Samoa",
+        "debt-ratio": "49.44%"
+    },
+    {
+        "countries": "Ecuador",
+        "debt-ratio": "49.20%"
+    },
+    {
+        "countries": "Colombia",
+        "debt-ratio": "49.16%"
+    },
+    {
+        "countries": "Armenia",
+        "debt-ratio": "47.95%"
+    },
+    {
+        "countries": "Poland",
+        "debt-ratio": "47.48%"
+    },
+    {
+        "countries": "Algeria",
+        "debt-ratio": "46.92%"
+    },
+    {
+        "countries": "Slovakia",
+        "debt-ratio": "46.90%"
+    },
+    {
+        "countries": "Liberia",
+        "debt-ratio": "46.66%"
+    },
+    {
+        "countries": "Guinea",
+        "debt-ratio": "45.98%"
+    },
+    {
+        "countries": "Georgia",
+        "debt-ratio": "45.05%"
+    },
+    {
+        "countries": "Uganda",
+        "debt-ratio": "44.81%"
+    },
+    {
+        "countries": "Chad",
+        "debt-ratio": "42.91%"
+    },
+    {
+        "countries": "Burkina Faso",
+        "debt-ratio": "42.47%"
+    },
+    {
+        "countries": "Malta",
+        "debt-ratio": "42.46%"
+    },
+    {
+        "countries": "Central African Republic",
+        "debt-ratio": "42.25%"
+    },
+    {
+        "countries": "Dominican Republic",
+        "debt-ratio": "41.92%"
+    },
+    {
+        "countries": "Thailand",
+        "debt-ratio": "41.47%"
+    },
+    {
+        "countries": "Swaziland",
+        "debt-ratio": "41.11%"
+    },
+    {
+        "countries": "Australia",
+        "debt-ratio": "41.10%"
+    },
+    {
+        "countries": "Madagascar",
+        "debt-ratio": "41.02%"
+    },
+    {
+        "countries": "Nicaragua",
+        "debt-ratio": "40.88%"
+    },
+    {
+        "countries": "Honduras",
+        "debt-ratio": "40.80%"
+    },
+    {
+        "countries": "South Korea",
+        "debt-ratio": "40.54%"
+    },
+    {
+        "countries": "Macedonia",
+        "debt-ratio": "40.48%"
+    },
+    {
+        "countries": "Switzerland",
+        "debt-ratio": "39.49%"
+    },
+    {
+        "countries": "Myanmar",
+        "debt-ratio": "39.19%"
+    },
+    {
+        "countries": "Philippines",
+        "debt-ratio": "39.10%"
+    },
+    {
+        "countries": "Cameroon",
+        "debt-ratio": "38.11%"
+    },
+    {
+        "countries": "Romania",
+        "debt-ratio": "37.99%"
+    },
+    {
+        "countries": "Lesotho",
+        "debt-ratio": "37.95%"
+    },
+    {
+        "countries": "South Sudan",
+        "debt-ratio": "37.81%"
+    },
+    {
+        "countries": "Panama",
+        "debt-ratio": "37.81%"
+    },
+    {
+        "countries": "Papua New Guinea",
+        "debt-ratio": "37.72%"
+    },
+    {
+        "countries": "Equatorial Guinea",
+        "debt-ratio": "37.49%"
+    },
+    {
+        "countries": "Sweden",
+        "debt-ratio": "37.23%"
+    },
+    {
+        "countries": "Mali",
+        "debt-ratio": "36.93%"
+    },
+    {
+        "countries": "Norway",
+        "debt-ratio": "36.75%"
+    },
+    {
+        "countries": "Latvia",
+        "debt-ratio": "36.66%"
+    },
+    {
+        "countries": "Tanzania",
+        "debt-ratio": "36.57%"
+    },
+    {
+        "countries": "Bosnia and Herzegovina",
+        "debt-ratio": "36.34%"
+    },
+    {
+        "countries": "Haiti",
+        "debt-ratio": "36.23%"
+    },
+    {
+        "countries": "Comoros",
+        "debt-ratio": "35.08%"
+    },
+    {
+        "countries": "Bangladesh",
+        "debt-ratio": "34.81%"
+    },
+    {
+        "countries": "Taiwan",
+        "debt-ratio": "33.91%"
+    },
+    {
+        "countries": "Lithuania",
+        "debt-ratio": "33.79%"
+    },
+    {
+        "countries": "Denmark",
+        "debt-ratio": "33.61%"
+    },
+    {
+        "countries": "Iceland",
+        "debt-ratio": "33.13%"
+    },
+    {
+        "countries": "Nepal",
+        "debt-ratio": "33.07%"
+    },
+    {
+        "countries": "Czech Republic",
+        "debt-ratio": "31.57%"
+    },
+    {
+        "countries": "Turkmenistan",
+        "debt-ratio": "30.25%"
+    },
+    {
+        "countries": "Nigeria",
+        "debt-ratio": "30.05%"
+    },
+    {
+        "countries": "Iran",
+        "debt-ratio": "30.04%"
+    },
+    {
+        "countries": "Turkey",
+        "debt-ratio": "29.93%"
+    },
+    {
+        "countries": "Cambodia",
+        "debt-ratio": "29.57%"
+    },
+    {
+        "countries": "Indonesia",
+        "debt-ratio": "29.29%"
+    },
+    {
+        "countries": "Moldova",
+        "debt-ratio": "28.82%"
+    },
+    {
+        "countries": "New Zealand",
+        "debt-ratio": "28.07%"
+    },
+    {
+        "countries": "Peru",
+        "debt-ratio": "27.18%"
+    },
+    {
+        "countries": "Chile",
+        "debt-ratio": "27.17%"
+    },
+    {
+        "countries": "Guatemala",
+        "debt-ratio": "24.76%"
+    },
+    {
+        "countries": "Saudi Arabia",
+        "debt-ratio": "23.71%"
+    },
+    {
+        "countries": "Kiribati",
+        "debt-ratio": "23.48%"
+    },
+    {
+        "countries": "Marshall Islands",
+        "debt-ratio": "23.37%"
+    },
+    {
+        "countries": "Uzbekistan",
+        "debt-ratio": "23.23%"
+    },
+    {
+        "countries": "Paraguay",
+        "debt-ratio": "22.37%"
+    },
+    {
+        "countries": "Tuvalu",
+        "debt-ratio": "21.81%"
+    },
+    {
+        "countries": "Luxembourg",
+        "debt-ratio": "21.61%"
+    },
+    {
+        "countries": "Zimbabwe",
+        "debt-ratio": "20.99%"
+    },
+    {
+        "countries": "Kazakhstan",
+        "debt-ratio": "20.90%"
+    },
+    {
+        "countries": "Bulgaria",
+        "debt-ratio": "19.33%"
+    },
+    {
+        "countries": "United Arab Emirates",
+        "debt-ratio": "19.20%"
+    },
+    {
+        "countries": "Micronesia",
+        "debt-ratio": "18.41%"
+    },
+    {
+        "countries": "Kuwait",
+        "debt-ratio": "17.78%"
+    },
+    {
+        "countries": "Azerbaijan",
+        "debt-ratio": "17.59%"
+    },
+    {
+        "countries": "Solomon Islands",
+        "debt-ratio": "14.56%"
+    },
+    {
+        "countries": "DR Congo",
+        "debt-ratio": "14.01%"
+    },
+    {
+        "countries": "Russia",
+        "debt-ratio": "13.79%"
+    },
+    {
+        "countries": "Botswana",
+        "debt-ratio": "12.78%"
+    },
+    {
+        "countries": "Estonia",
+        "debt-ratio": "7.61%"
+    },
+    {
+        "countries": "Afghanistan",
+        "debt-ratio": "6.88%"
+    },
+    {
+        "countries": "Brunei",
+        "debt-ratio": "2.63%"
+    }
+]
